@@ -9,6 +9,7 @@ public class test {
 		System.out.println("大家好");
 		System.out.println("才是真的好");
 		System.out.println("local update");
+		System.out.println("remote update");
 	}
 
 }
